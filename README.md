@@ -31,3 +31,12 @@ Este projeto tem como objetivo praticar:
 
 ## 📄 Licença
 Projeto educacional
+
+
+====
+
+
+## 📌 Próximos Passos
+- Criar código-fonte
+- Implementar testes
+- Melhorar documentação
